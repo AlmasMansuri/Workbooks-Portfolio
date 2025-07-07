@@ -9,6 +9,9 @@ Fundamentals of Data regulations and Data analysis in Excel
 •	Additionally, I’ve significantly enhanced my skills in Microsoft Excel.
 •	I have gained confidence in using Excel formulas, pivot tables, data cleaning techniques, and basic data analysis tools to extract insights and support decision-making.
 •	I have taken part in practical labs, group activities and discussions on data handling.
+![image](https://github.com/user-attachments/assets/5df33d89-6f35-4bb5-8e2c-9050d42a30ba)
+
+![image](https://github.com/user-attachments/assets/d3cab601-795b-4cdf-a5f8-6e5b97a7f241)
 
 # Week 2
 #Title:
@@ -20,6 +23,11 @@ Data visualization in power BI and Tableau
 •	Used Spotify dataset to visualize the results in form of different charts in tableau and found the key insights in data.
 •	I have completed hands-on Power BI practical labs through the PL-300 course on Skillable, where I applied real-world scenarios to transform data in power query, cleaning and manipulating data, build reports, create data models, and develop interactive dashboards.
 
+![image](https://github.com/user-attachments/assets/2668f47e-2490-4f51-b405-5650a88e29f8)
+
+![image](https://github.com/user-attachments/assets/0a914efb-fa42-4a67-b0da-1ab23778e9c4)
+
+
 # Week 3
 #Title:
 SQL 
@@ -29,6 +37,11 @@ SQL
 •	Have gained a clear understanding of SQL data types, primary and foreign keys, and other essential constraints used in relational databases.
 •	I’ve learned how to design and structure databases efficiently to ensure data integrity and consistency. 
 •	Additionally, I’ve become confident in writing sql queries using various types of joins to combine data from multiple tables and extract meaningful insights for analysis.
+
+![image](https://github.com/user-attachments/assets/11bc30dc-1949-4a02-8982-4c9bf242b04f)
+
+![image](https://github.com/user-attachments/assets/ae1edb2e-83d7-4b2c-90d4-c1f4e8bad5d1)
+
 
 # Week 5
 #Title:
@@ -44,6 +57,11 @@ Cloud Computing and Azure data Fundamentals
 •	Done practical Labs on Microsoft Fabric.
 •	I have completed hands-on practical labs through the DP-900 T00-A Microsoft Azure Data Fundamentals course on Skillable.
 
+![image](https://github.com/user-attachments/assets/f82221aa-03fc-46dd-aebd-f64ced933192)
+
+![image](https://github.com/user-attachments/assets/25454816-5a4f-4741-b95c-fd58e58e764a)
+
+
 # Week 6
 #Title: 
 Introduction to Python
@@ -53,4 +71,7 @@ Introduction to Python
 •	In addition, I explored powerful Python libraries such as Pandas for data manipulation, NumPy for numerical computing, and Matplotlib and Seaborn for data visualization.
 •	Generate different queries in pandas on different datasets.
 
+![image](https://github.com/user-attachments/assets/5dfb28f2-00a7-48a5-9859-c57c671f5cc5)
+
+![image](https://github.com/user-attachments/assets/b41eae56-867c-4f33-a147-d4378eedb9b4)
 
