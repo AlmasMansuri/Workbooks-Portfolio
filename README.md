@@ -9,7 +9,8 @@ I have an electrical engineering background with former experience of over 7 yea
 I am currently in the final stage of a Digital Skills Bootcamp at JustIT Training to consolidate my skills in data analysis. I am looking to build on my skills and develop new skills to develop a career as a data analyst.
 
 *   🌍  I'm based in Woverhampton, UK
-*   🖥️  See my portfolio at [My Portfolio](http://github.com/AlmasMansuri)
+*   🖥️  See my portfolio at [My Portfolio](https://sites.google.com/view/almas-mansuri)
+))
 *   ✉️  You can contact me at [mansuri\_almas@yahoo.com](mailto:mansuri_almas@yahoo.com)
 
 Soft Skills
