@@ -10,7 +10,6 @@ I am currently in the final stage of a Digital Skills Bootcamp at JustIT Trainin
 
 *   🌍  I'm based in Woverhampton, UK
 *   🖥️  See my portfolio at [My Portfolio](https://sites.google.com/view/almas-mansuri)
-))
 *   ✉️  You can contact me at [mansuri\_almas@yahoo.com](mailto:mansuri_almas@yahoo.com)
 
 Soft Skills
