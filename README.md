@@ -5,13 +5,15 @@ Hi 👋 My name is Almas Mansuri
 Data Analyst
 ------------
 I have an electrical engineering background with former experience of over 7 years as Laboratory and Graduate Engineer working in high-tech manufacturing and product testing environments. I have strong foundation in technical data handling, reporting, and problem-solving developed in previous engineering roles. 
+
 I am currently in the final stage of a Digital Skills Bootcamp at JustIT Training to consolidate my skills in data analysis. I am looking to build on my skills and develop new skills to develop a career as a data analyst.
 
 *   🌍  I'm based in Woverhampton, UK
 *   🖥️  See my portfolio at [My Portfolio](http://github.com/AlmasMansuri)
 *   ✉️  You can contact me at [mansuri\_almas@yahoo.com](mailto:mansuri_almas@yahoo.com)
 
-Soft Skilss
+Soft Skills
+
 Team Working			Planning and Organisation 	Critical Thinking
 Communication/Presentation	Data driven			Problem Solving
 
